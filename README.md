@@ -35,4 +35,4 @@ Sempre explorando novas linguagens, frameworks e boas práticas para criar solu�
 ---
 
 ## 🌍 Onde me encontrar
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](luizhpallavicini22@gmail.com)
+[![luizhpallavicini22@gmail.com](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](luizhpallavicini22@gmail.com)
