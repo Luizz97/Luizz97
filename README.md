@@ -28,7 +28,7 @@ Sempre explorando novas linguagens, frameworks e boas práticas para criar solu�
 ---
 
 ## 📂 Projetos em Destaque
-- 🔗 [**Projeto 1**](https://github.com/Luizz97/mercado-virtual) – Mercado virtual base 
+- 🔗 [**Projeto 1 ***) (https://github.com/unb-mds/2025-2-OncoMap.git) – OncoMap 
 - 🔗 [**Projeto 2**](https://github.com/DaviUrsulino/Petshop) – Pet shop
 
 
