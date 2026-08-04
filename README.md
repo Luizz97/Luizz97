@@ -30,7 +30,7 @@ Sempre explorando novas linguagens, frameworks e boas práticas para criar solu�
 ## 📂 Projetos em Destaque
 - 🔗 [**Projeto 1 ***](https://github.com/unb-mds/2025-2-OncoMap.git) – OncoMap 
 - 🔗 [**Projeto 2**](https://github.com/DaviUrsulino/Petshop) – Pet shop
- 🔗 [**Projeto 3**](https://github.com/Luizz97/REQ-2026.1-T01--MorfoBlocosDigital.git) – MorfoBlocosDigital
+- 🔗 [**Projeto 3**](https://github.com/Luizz97/REQ-2026.1-T01--MorfoBlocosDigital.git) – MorfoBlocosDigital
 
 ---
 
